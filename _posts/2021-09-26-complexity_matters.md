@@ -1,6 +1,6 @@
 ---
 title: Complexity matters
-date: 2021-09-26
+date: YYYY-MM-DD
 ---
 # Complexity matters
 
